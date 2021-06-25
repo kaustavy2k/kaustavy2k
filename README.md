@@ -10,7 +10,7 @@
 <div>
 
 - 🔭 DS Algo and Food drives me crazy
-- ⚡ Believer of struggle over qqluck
+- ⚡ Believer of struggle over luck
 - :alien: I believe time travel can be achieved by either sleeping or coding
 - :heart: Football and FarCry occupies a special place in my heart
 
