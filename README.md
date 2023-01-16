@@ -29,6 +29,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Kaustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustavy2k&show_icons=true&theme=dark&custom_title=Kaustav%27s%20GitHub%20Stats&count_private=true&bg_color=#000000&hide_border=true)
+<!-- ![Kaustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustavy2k&show_icons=true&theme=dark&custom_title=Kaustav%27s%20GitHub%20Stats&count_private=true&bg_color=#000000&hide_border=true) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustavy2k&langs_count=15&layout=compact)](https://github.com/kaustavy2k/github-readme-stats)-->
