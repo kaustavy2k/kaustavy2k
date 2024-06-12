@@ -11,7 +11,7 @@
 
 - 🔭 DS Algo and Food drives me crazy
 - ⚡ Believer of luck over struggle (yes luck is important)
-- :alien: I believe time travel can be achieved by either sleeping or coding
+- :alien: I believe time travel can be achieved by either sleeping or debugging
 - :heart: Football and FarCry occupies a special place in my heart
 
 </div>
